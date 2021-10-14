@@ -62,7 +62,7 @@ namespace The_magical_factory_2._0
             }
         }
 
-        private void CreateItemFromRecipe(Recepies recipe)
+        private void CreateItemFromRecipe(Recepies recepie)
         {
             Random timeRando = new();
             Console.Write("Gathering rescourses ");
@@ -75,19 +75,19 @@ namespace The_magical_factory_2._0
             }
             Console.WriteLine();
 
-            Console.WriteLine("Construction of {0} is starting ...", recipe.Name);
+            Console.WriteLine("Construction of {0} is starting ...", recepie.Name);
             Thread.Sleep(timeRando.Next(50, 400));              //pauses the game for random time to simulate the items beeing crafted.
-            Storage._playerItems.Add(recipe);                   //curently using a static property in storage so we can change it from here.,. will be changed so we can have many difrent players.
+            Storage._playerItems.Add(recepie);                   //curently using a static property in storage so we can change it from here.,. will be changed so we can have many difrent players.
             Console.WriteLine("Success!");
-            Console.WriteLine("The {0} was added to your inventory.", recipe.Name);
+            Console.WriteLine("The {0} was added to your inventory.", recepie.Name);
             Thread.Sleep(700);
             Console.WriteLine("Checking if there anything else to make ..");
 
-            _woodInFactory -= recipe.WoodNeeded; // ta bort material från inv i fabrik
-            _ironInFactory -= recipe.SteelNeeded;
-            _rubberInFactory -= recipe.PlasticNeeded;
-            _redPaintInFactory -= recipe.RedPaintNeeded;
-            _screwsInFactory -= recipe.ScrewNeeded;
+            _woodInFactory -= recepie.WoodNeeded; // ta bort material från inv i fabrik
+            _ironInFactory -= recepie.SteelNeeded;
+            _rubberInFactory -= recepie.PlasticNeeded;
+            _redPaintInFactory -= recepie.RedPaintNeeded;
+            _screwsInFactory -= recepie.ScrewNeeded;
             CheckMaterialAgainstRecepies(); // kör 
 
 
