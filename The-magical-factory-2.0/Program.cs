@@ -2,11 +2,12 @@
 
 namespace The_magical_factory_2._0
 {
-    class Program
+    partial class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MagicalFactory factory = new MagicalFactory();
+            factory.Run();
         }
     }
 }
