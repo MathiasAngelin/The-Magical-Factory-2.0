@@ -1,0 +1,16 @@
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\obj\Debug\net5.0\The-magical-factory-2.0.csproj.AssemblyReference.cache
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\obj\Debug\net5.0\The-magical-factory-2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\obj\Debug\net5.0\The-magical-factory-2.0.AssemblyInfoInputs.cache
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\obj\Debug\net5.0\The-magical-factory-2.0.AssemblyInfo.cs
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\obj\Debug\net5.0\The-magical-factory-2.0.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\bin\Debug\net5.0\The-magical-factory-2.0.exe
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\bin\Debug\net5.0\The-magical-factory-2.0.deps.json
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\bin\Debug\net5.0\The-magical-factory-2.0.runtimeconfig.json
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\bin\Debug\net5.0\The-magical-factory-2.0.runtimeconfig.dev.json
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\bin\Debug\net5.0\The-magical-factory-2.0.dll
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\bin\Debug\net5.0\ref\The-magical-factory-2.0.dll
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\bin\Debug\net5.0\The-magical-factory-2.0.pdb
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\obj\Debug\net5.0\The-magical-factory-2.0.dll
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\obj\Debug\net5.0\ref\The-magical-factory-2.0.dll
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\obj\Debug\net5.0\The-magical-factory-2.0.pdb
+C:\Users\Mathias\source\repos\The-magical-factory-2.0\The-magical-factory-2.0\obj\Debug\net5.0\The-magical-factory-2.0.genruntimeconfig.cache
